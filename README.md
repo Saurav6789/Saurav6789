@@ -14,7 +14,7 @@
 
 # 🚀 About Me
 
-- 🔭 I’m currently working on **Data Science & Machine Learning**
+- 🔭 I’m currently working as  **Data Science & Machine Learning**
 - 🌱 Learning **Advanced ML and AI**
 - 🎥 I run a YouTube Channel on Data Science
 
@@ -26,7 +26,7 @@ https://www.youtube.com/@skeweddataScientist
 # 🧠 Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,git,github,linux,sklearn,tensorflow,pytorch,sql,vscode" />
+<img src="https://skillicons.dev/icons?i=python,git,github,linux,sklearn,tensorflow,pytorch,sql,vscode,sql,neo4j,vector database" />
 </p>
 
 ---
