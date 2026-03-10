@@ -37,13 +37,13 @@
 <tr>
 <td>
 <a href="https://www.youtube.com/@skeweddatascientist?sub_confirmation=1" target="_blank">
-<img height="30" src="https://img.shields.io/youtube/channel/subscribers/@skeweddatascientist?style=social&logo=youtube">
+<img height="30" src="https://img.shields.io/youtube/channel/subscribers/UCCr-42JtJYC32cqrpDI42EQ?style=social&logo=Youtube">
 </a>
 </td>
 
 <td>
 <a href="https://www.youtube.com/@skeweddatascientist" target="_blank">
-<img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/@skeweddatascientist?style=social">
+<img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/UCCr-42JtJYC32cqrpDI42EQ?style=social">
 </a>
 </td>
 
