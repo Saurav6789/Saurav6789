@@ -1,13 +1,14 @@
 <h1 align="center">Hi 👋, I'm Saurav</h1>
 <h3 align="center">Data Science | Machine Learning | Content Creator</h3>
 
-<p align="center">
-<a href="https://www.youtube.com/@skeweddataScientist" target="blank">
-<img src="https://img.shields.io/youtube/channel/subscribers/@skeweddataScientist?style=social" />
+<b>My YouTube Channel Link -    </b>
+<a href="https://www.youtube.com/@skeweddataScientist" target="_blank">
+<img height="30"
+    alt="Youtube"
+    src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
+  />
 </a>
-<a href="https://github.com/Saurav6789">
-<img src="https://komarev.com/ghpvc/?username=Saurav6789&label=Profile%20views&color=0e75b6&style=flat" />
-</a>
+<b>      (Subscribe to my channel updated on new videos and courses)   </b>
 </p>
 
 ---
