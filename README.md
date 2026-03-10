@@ -31,6 +31,30 @@
 <tr><td><b>FastAPI Tutorial For Data Scientist</b></td> <td><a href="https://www.youtube.com/playlist?list=PLIdcQN67z7WRaRdiH-ir0oLnppnj8WvOw" target="_blank">Click Here for FastAPI</a></td><td><a href="https://github.com/Saurav6789/FastAPI--Zero-to-hero" target="_blank">FastAPI Repo</a></td></tr>
 <tr><td><b>MLFLOW complete guide</b></td> <td><a href="Coming soon" target="_blank">Click Here for MLFLOW</a></td><td><a href="https://github.com/Saurav6789/machine-learning-with-MLflow" target="_blank">MLFlow Repo</a></td></tr>
 </table>
+
+
+<table>
+<tr>
+<td>
+<a href="https://www.youtube.com/@skeweddatascientist?sub_confirmation=1" target="_blank">
+<img height="30" src="https://img.shields.io/youtube/channel/subscribers/@skeweddatascientist?style=social&logo=youtube">
+</a>
+</td>
+
+<td>
+<a href="https://www.youtube.com/@skeweddatascientist" target="_blank">
+<img height="30" alt="YouTube Channel Views" src="https://img.shields.io/youtube/channel/views/@skeweddatascientist?style=social">
+</a>
+</td>
+
+<td>
+<a href="https://www.linkedin.com/in/saurav-anand-92229584/" target="_blank">
+<img height="30" alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-Saurav%20Anand-blue?style=social&logo=linkedin">
+</a>
+</td>
+</tr>
+</table>
+
 ---
 
 # 🧠 Tech Stack
