@@ -22,9 +22,11 @@
 </p>
 
 <br/><br/>
-### Below are list of courses available on my YouTube channel and they are absolutely free as well 👋
+### Below are List of Playlist available on my YouTube channel and they are absolutely free as well 👋
 <br/>
-
+<table width="500" border="1">
+<tr><th bgcolor="yellow">Course Name</th><th>Course URL</th><th>GitHub Repo</th></tr>
+<tr><td><b>Polars Complete Guide </b></td> <td><a href="https://www.youtube.com/playlist?list=PLIdcQN67z7WSXtzUmTu_57GvoxA1SJa82" target="_blank">Click Here for Polars</a></td><td><a href="https://github.com/Saurav6789/Polars-tutorial-for-Data-Scientist" target="_blank">Polars Repo</a></td></tr>
 ---
 
 # 🧠 Tech Stack
