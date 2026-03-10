@@ -52,15 +52,15 @@
 <img height="30" alt="Github Stars" src="https://img.shields.io/github/stars/saurav6789?style=social">
 </a>
 </td>
-
-<td>
-<a href="https://www.linkedin.com/in/saurav-anand-92229584/" target="_blank">
-<img height="30" alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-Saurav%20Anand-blue?style=social&logo=linkedin">
-</a>
-</td>
 </tr>
 </table>
-
+<b>Follow me on LinkedIn where I post on Data Science Frequently -    </b>
+ <a href="https://www.linkedin.com/in/saurav-anand-92229584/" target="_blank">
+  <img height="30"
+    alt="LinkedIn"
+    src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+  />
+</a>
 ---
 
 # 🧠 Tech Stack
