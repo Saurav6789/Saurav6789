@@ -8,7 +8,7 @@
     src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
   />
 </a>
-<b>      (Subscribe to my channel updated on new videos and courses)   </b>
+<b>      (Subscribe to my channel for new videos and  courses)   </b>
 </p>
 
 ---
