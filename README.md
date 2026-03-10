@@ -1,6 +1,16 @@
 <h1 align="center">Hi 👋, I'm Saurav</h1>
 <h3 align="center">Data Science | Machine Learning | Content Creator</h3>
 
+---
+
+# 🚀 About Me
+
+- 🔭 I’m currently working as  **Data Science & AI and Machine Learning Engineer**
+- 🌱 Expertise in **Advanced ML and AI**
+- 🎥 I run a YouTube Channel on Data Science
+
+---
+
 <b>My YouTube Channel Link -    </b>
 <a href="https://www.youtube.com/@skeweddataScientist" target="_blank">
 <img height="30"
@@ -10,17 +20,6 @@
 </a>
 <b>      (Subscribe to my channel for new videos and  courses)   </b>
 </p>
-
----
-
-# 🚀 About Me
-
-- 🔭 I’m currently working as  **Data Science & Machine Learning**
-- 🌱 Learning **Advanced ML and AI**
-- 🎥 I run a YouTube Channel on Data Science
-
-📺 YouTube Channel  
-https://www.youtube.com/@skeweddataScientist
 
 ---
 
