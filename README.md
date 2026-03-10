@@ -48,6 +48,12 @@
 </td>
 
 <td>
+<a href="https://github.com/Saurav6789" target="_blank">
+<img height="30" alt="Github Stars" src="https://img.shields.io/github/stars/saurav6789?style=social">
+</a>
+</td>
+
+<td>
 <a href="https://www.linkedin.com/in/saurav-anand-92229584/" target="_blank">
 <img height="30" alt="LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-Saurav%20Anand-blue?style=social&logo=linkedin">
 </a>
