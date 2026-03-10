@@ -28,7 +28,8 @@
 <tr><th bgcolor="yellow">Course Name</th><th>Course URL</th><th>GitHub Repo</th></tr>
 <tr><td><b>Polars Complete Guide </b></td> <td><a href="https://www.youtube.com/playlist?list=PLIdcQN67z7WSXtzUmTu_57GvoxA1SJa82" target="_blank">Click Here for Polars</a></td><td><a href="https://github.com/Saurav6789/Polars-tutorial-for-Data-Scientist" target="_blank">Polars Repo</a></td></tr>
 <tr><td><b>Neo4j Complete playlist</b></td> <td><a href="https://www.youtube.com/playlist?list=PLIdcQN67z7WSrLsVIUm3tMiqEi0OxEv6N" target="_blank">Click Here for Neo4J</a></td><td><a href="https://github.com/Saurav6789/Neo4j-Complete-Tutorial" target="_blank">Neo4j Repo</a></td></tr>
-<tr><td><b>FastAPI Tutorial For Data Scientist</b></td> <td><a href="https://www.youtube.com/playlist?list=PLIdcQN67z7WRaRdiH-ir0oLnppnj8WvOw" target="_blank">Click Here for FastAPI</a></td><td><a href="https://github.com/Saurav6789/FastAPI--Zero-to-hero" target="_blank">Neo4j Repo</a></td></tr>
+<tr><td><b>FastAPI Tutorial For Data Scientist</b></td> <td><a href="https://www.youtube.com/playlist?list=PLIdcQN67z7WRaRdiH-ir0oLnppnj8WvOw" target="_blank">Click Here for FastAPI</a></td><td><a href="https://github.com/Saurav6789/FastAPI--Zero-to-hero" target="_blank">FastAPI Repo</a></td></tr>
+<tr><td><b>MLFLOW complete guide</b></td> <td><a href="Coming soon" target="_blank">Click Here for FastAPI</a></td><td><a href="https://github.com/Saurav6789/machine-learning-with-MLflow" target="_blank">MLFlow Repo</a></td></tr>
 </table>
 ---
 
